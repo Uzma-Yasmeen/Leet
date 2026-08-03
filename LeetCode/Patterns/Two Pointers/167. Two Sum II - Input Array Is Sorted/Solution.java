@@ -12,6 +12,7 @@ class Solution {
             else if(nums[i]+nums[j]>target)
             {
                 i--;
+                j++;
             }
         }
         return new int[]{};
