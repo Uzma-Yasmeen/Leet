@@ -9,7 +9,7 @@ class Solution {
                 i++;
                 j++;
             }
-            else j++;
+            else i++;
         }
         return new int[]{};
     }
