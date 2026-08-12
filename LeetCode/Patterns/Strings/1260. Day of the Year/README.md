@@ -8,8 +8,8 @@
 Math, String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 7 ms
+- **Memory:** 47 MB
 
 ---
 
