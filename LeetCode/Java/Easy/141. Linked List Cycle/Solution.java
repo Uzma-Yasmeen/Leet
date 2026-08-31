@@ -19,6 +19,7 @@ public class Solution {
         {
             if(fast == slow && pos>=0) return true;
             pos++;
+            fast =
             temp = temp.next;
         }
         return false;
